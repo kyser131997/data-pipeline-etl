@@ -21,7 +21,7 @@ L’objectif est de transformer des **données brutes volumineuses** en **donné
 ## 🏗️ Architecture du pipeline ETL
 
 <p align="center">
-  <img src="assets/architecture_etl_nyc_taxi.png" alt="Architecture Pipeline ETL NYC Taxi sur GCP" width="90%">
+  <img src="https://github.com/kyser131997/data-pipeline-etl/blob/main/Architecture%20du%20projet.jpeg" width="60%">
 </p>
 
 ---
